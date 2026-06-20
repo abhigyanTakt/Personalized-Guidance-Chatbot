@@ -2,12 +2,6 @@
 
 ## ✨ Authors
 ### Harsh Kaushik —  Frontend Development and Backend Developer
-### Kartik Sharma  — Vector Database Management  
-### Krishna Prajapati — Career Data Preparation 
-### Ishu Singh — Frontend Development (Streamlit UI)
-
-## 🎓 Mentor
-### Ms. Ankita
 
 ## 📋 Project Overview
 This project is a Personalized Guidance Chatbot that helps users discover suitable career options based on their interests and skills.
@@ -76,12 +70,6 @@ Integrating frontend with backend for real-time suggestions
 ## 🔗 LinkedIn Profiles
 
 Harsh Kaushik : https://www.linkedin.com/in/harshkaushik1/
-
-Kartik Sharma : LinkedIn Profile
-
-Krishna Parjapati : LinkedIn Profile
-
-Ishu Singh : LinkedIn Profile
 
 ## 📢 Conclusion
 This project demonstrates the seamless integration of AI, Machine Learning, and Web Development to build an intelligent chatbot that suggests career options.
